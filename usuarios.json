@@ -1,0 +1,25 @@
+[
+    {
+        "usuario": "edder",
+        "cuenta_id": "a7145e92-5cb6-448d-8dba-e22ff4b4a409",
+        "saldo_inicial": 100100101.0,
+        "moneda": "cop",
+        "historial": [
+            {
+                "tipo_movimiento": "INGRESO",
+                "cantidad": 100000.0,
+                "fecha": "2025-01-02 00:00:00"
+            },
+            {
+                "tipo_movimiento": "GASTO",
+                "cantidad": 10000.0,
+                "fecha": "2025-01-04 00:00:00"
+            },
+            {
+                "tipo_movimiento": "INGRESO",
+                "cantidad": 10000.0,
+                "fecha": "2025-01-06 00:00:00"
+            }
+        ]
+    }
+]
